@@ -8,13 +8,17 @@ This project analyzes sales data from an online bookstore using SQL queries to e
   -<h4>Orders:</h4> Records all transactions, including order date, quantity, and total amount.
      
 <h2>Key Insights & Queries</h2>
-Retrieve books by genre, publication year, and stock availability.  
-Identify top-selling books and most frequent customers.  
-Calculate total revenue and customer spending trends.  
+Retrieve books by genre, publication year, and stock availability.
+
+Identify top-selling books and most frequent customers.
+
+Calculate total revenue and customer spending trends.
+
 Determine inventory levels and stock depletion after sales.  
 
 <h2>Technologies Used</h2>
-SQL (MySQL 9.0.1) for data extraction and analysis.  
+SQL (MySQL 9.0.1) for data extraction and analysis.
+
 Data Analytics techniques for business intelligence insights.  
 
 <h2>Usage</h2>
