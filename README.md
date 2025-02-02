@@ -1,9 +1,9 @@
-<h1>**Online Bookstore Sales Analysis**</h1>
-<h2>**Project Overview**</h2>
+<h1>Online Bookstore Sales Analysis</h1>
+<h2>Project Overview</h2>
 This project analyzes sales data from an online bookstore using SQL queries to extract insights from three datasets: books, customers, and orders. The goal is to understand sales trends, customer behavior, inventory management, and revenue generation.
 
-Datasets
-Books: Contains details about books, including title, author, genre, price, and stock availability.
+<h2>Datasets</h2>
+<h4>Books:</h4> Contains details about books, including title, author, genre, price, and stock availability.
 Customers: Stores customer information such as name, location, and purchase history.
 Orders: Records all transactions, including order date, quantity, and total amount.
 Key Insights & Queries
